@@ -19,9 +19,13 @@ Assess model performance using metrics like accuracy, precision, recall, and F1-
 ### Visualization:
 Create visual representations of decision trees for better interpretability.
 ## Technologies Used
-*Python:* Primary programming language for implementing decision tree models.
-Scikit-learn: Library used for building and evaluating decision trees.
-Pandas and NumPy: For data manipulation and preprocessing.
-Matplotlib and Seaborn: For data visualization.
+### Python:
+Primary programming language for implementing decision tree models.
+### Scikit-learn:
+Library used for building and evaluating decision trees.
+### Pandas and NumPy:
+For data manipulation and preprocessing.
+### Matplotlib and Seaborn:
+For data visualization.
 ## Future Developments
 As I continue to explore decision tree models, I plan to add more complex variations, such as Random Forests and Gradient Boosted Trees, and apply these techniques to various real-world datasets.
